@@ -4,6 +4,7 @@
 　・チェックボックスにチェックが入っているか管理する
 　・チェックボックスにチェックが入っているかアイテムをグレーアウトする
 */
+//TodoItem
 function TodoItem( { item } ) {
   return (
     <label className="panel-block">
